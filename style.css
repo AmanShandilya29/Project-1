@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@800&display=swap');
+
+.navbar-container{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 8%;
+    margin-top: 3%;
+    justify-content: space-between;
+}
+.list{
+    display: flex;
+    width: 500px;
+    list-style-type: none;
+    justify-content: space-between;
+    font-family: orbitron;
+    font-weight: 700;
+    font-size: 20px;
+ }
+
+.button-group{
+    display: flex;
+    width: 150px;
+    margin-top: 1%;
+    justify-content: space-between;
+}
+ .nav-button{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+     font-size: 25px;
+    
+ }
+ .list li:nth-child(1){
+    order:-2;
+ }
+ .list li:nth-child(3){
+    order: -1;
+ }
+
+ .hero-container div>img{
+   
+    width: 450px;
+    height: 600px;
+   position: relative;
+   bottom: 350px;
+   left: 85px;
+   
+   /* margin-top: 75px;
+   margin-left: 85px; */
+   
+ }
+ .globe{
+    position: relative;
+    bottom: 300px;
+    left: 550px;
+ }
+ .star{
+    position: relative;
+    bottom: 250px;
+    left: 1200px;
+ }
+ 
+ .square{
+    
+    position: relative;
+    top: 325px;
+    left: 200px;
+ }  
+ h1{
+     font-family: orbitron;
+    font-weight: 800;
+    font-size: 70px;
+    /* float: right; */
+    position: relative;
+    left: 800px;
+    bottom: 900px;
+    /* margin-right: 100px; */
+ }
+ p{ 
+    position: relative; 
+    bottom: 900px;
+    left: 1000px; 
+    margin-right: 300px; 
+    width: 535px;
+    text-align: center;
+
+    
+  }
+  .button-email{
+    width: 200px;
+   height: 30px;
+   font-family: orbitron;
+   font-size: 15px;
+   font-weight: 300;
+   border-radius: 5px;
+   position: relative;
+   left: 1100px;
+   bottom: 800px;
+  }
+  .button-join{
+    width: 125px;
+    height: 30px;
+    font-family: orbitron;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    position: relative;
+   left: 1120px;
+   bottom: 800px;
+   /* margin-left: 10px; */
+
+  }
+  h4{
+    font-family: sans-serif;
+   font-weight: 300;
+   font-size: 20px;
+   position: relative;
+   bottom: 750px;
+   left: 1250px;
+   letter-spacing: normal;
+}
+.icons{
+  position: relative;
+  left: 1180px;
+  bottom: 700px; 
+}  
+span{
+   margin-right: 20px;
+} 
