@@ -9,7 +9,7 @@ By Aman Shandilya
 ## Learnings
 - Understanding syntax of HTML and CSS.
 - Use of Selectors in CSS.
-- Align Navbar Logo Button in Line.
+- Align Navbar, Logo, Button in Line.
 - Play with Margins.
 - Use of Positions in CSS, diffuclty in applying relative positions as screen width and height keeps extending.
 ***
